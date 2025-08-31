@@ -1,4 +1,4 @@
-# 🧑‍💼 Job Portal
+# 🧑‍💼 Job Lane
 
 A full-stack **Job Portal Application** where job seekers can search and apply for jobs, while recruiters can post and manage job listings.  
 Built with the **MERN stack (MongoDB, Express.js, React, Node.js)** for modern and scalable job management.
@@ -34,5 +34,5 @@ Built with the **MERN stack (MongoDB, Express.js, React, Node.js)** for modern a
 
 ---
 
-## 📂 Project Structure
+
 
